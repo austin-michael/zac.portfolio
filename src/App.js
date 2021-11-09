@@ -1,23 +1,40 @@
-import logo from './logo.svg';
+import { useState } from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
+import projectData from './data/project-data.json';
+import Header from './components/Header';
+import Projects from './components/Projects';
+import About from './components/About';
+import ProjectDetails from './components/ProjectDetails';
+import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 
-function App() {
+const App = () => {
+
+  const [projects, setProjects] = useState (projectData.projects);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="page-container">
+      <div className="content-wrap">
+        <Router forceRefresh={true}>
+          <ScrollToTop />
+          <Header />
+          <Switch>
+            <Route path='/' exact>
+              <div className="projects-content">
+                <Projects projects={projects}/>
+              </div>
+            </Route>
+            <Route path='/projects/:id' exact>
+              <ProjectDetails />
+            </Route>
+            <Route path='/about' exact>
+              <About />
+            </Route>
+          </Switch>
+        </Router>
+      </div>
+      <Footer />
     </div>
   );
 }

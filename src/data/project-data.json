@@ -1,0 +1,461 @@
+{
+  "projects": [
+    {
+      "id": "thats_a_wrap",
+      "title": "That’s a Wrap™",
+      "subtitle": "Graduate Thesis \"One eloquent wrapped gesture\"",
+      "description": "The thesis is comprised of two tracks, sampling and wrapping, neither a parallel track but an interconnected thread. Creating a working methodology of sampling suggests an open space where different architectural languages can cross-pollinate or contaminate, creating new territories and imagining new possibilities. This is the driver of the design but the aesthetic and outcome aren’t an evident sample – similar to contemporary hip hop – but an expression of new coherencies. The wrapper – an amorphic entity – is the force driving these coherencies through the surface in a unified and continuous envelope. The design seeks to maximize the expressive potential of various architectural configurations by condensing their figurative allusions into one eloquent wrapped gesture.",
+      "details": {
+        "school": "SCI-Arc Graduate Thesis",
+        "semester": "2021",
+        "instructor": "Hernan Diaz-Alonso",
+        "team": null,
+        "skills": "Adobe Suite: After Effects & Premiere Audio/Video Editing, InDesign, Cinema 4D + Octane Render, Insydium X-Particles, Rhino 3D, Animation, Simulation, Material Node Editing"
+      },
+      "thumbnailImg": "/imgs/thats_a_wrap/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/taw_c_img.jpg",
+      "imgs": [
+        "/imgs/thats_a_wrap/TAW_IMG_01.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_02.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_03.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_04.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_05.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_06.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_07.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_08.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_09.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_10.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_11.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_12.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_13.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_14.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_15.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_16.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_17.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_18.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_19.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_20.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_21.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_22.jpg",
+        "/imgs/thats_a_wrap/TAW_IMG_23.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/602710978?h=92ebdbeb84&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern2"
+    },
+    {
+      "id": "paisajes_sintéticos",
+      "title": "Paisajes Sintéticos",
+      "subtitle": "Paraná Delta of Rosario, Argentina",
+      "description": "Located on the Paraná Delta in Rosario, Argentina lies an extensive journey in the new logics of contamination and construction of structural and cultural instability. Radicalizing the relationship between the urban and the rural divide by using the possibilities of artificial and natural interaction and blurring their relationship. The design consists of several systems that work parallel in varying scales, from the scale of the module to the size of an occupiable habitat. The hydroponic tubes sprawling across the untamable delta, bringing new life and protection to the landscape. Additionally, radicalizing the solution to plastic bottle waste by giving purpose to a module type composition.",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Spring 2021",
+        "instructor": "Hernan Diaz-Alonso",
+        "team": null,
+        "skills": "Adobe Suite: After Effects & Premier Audio/Video editing, Cinema 4D + Octane Render, Insydium X-Particles, Animation, Simulation, Material Node Editing"
+      },
+      "thumbnailImg": "/imgs/paisajes_sinteticos_of_the_parana/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/ps_c_img.jpg",
+      "imgs": [
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_01.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_02.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_03.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_04.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_05.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_06.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_07.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_08.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_09.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_10.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_11.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_12.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_13.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_14.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_15.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/614047670?h=4fde62879a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern2"
+    },
+    {
+      "id": "wearable_architecture",
+      "title": "Wearable Architecture",
+      "subtitle": "\"An easy pill to swallow,\" Liquiweavez",
+      "description": "The possibility of wearable architecture as an act of dual and parallel scale and augmented behaviors between architecture and garment. Specifically, the degree to which body architecture and architecture could be interpreted as an accumulative mutation of interactions. Utilizing a bodysuit program that can be transformed into a microhabitat as a tool to study the shift towards a paradigm of fluidity rather than the ubiquitous platform of types. The goal will be to move into entities that are in constant metamorphosis, adaptation, and mutation. The problem of the Garment/Habitat – the solution proposed is (Liquiweavez) combining several adaptive systems at the scale of the body and creating a scaler shift (through inflation to the habitat).",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Fall 2020",
+        "instructor": "Hernan Diaz-Alonso",
+        "skills": "Adobe Suite: After Effects & Premier Audio/Video editing, Cinema 4D + Octane Render, Insydium X-Particles, Rhino 3D, V-Ray, Animation, Simulation"
+      },
+      "thumbnailImg": "/imgs/wearable_arch/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/wa_c_img.jpg",
+      "imgs": [
+        "/imgs/wearable_arch/WA_IMG_01.jpg",
+        "/imgs/wearable_arch/WA_IMG_02.jpg",
+        "/imgs/wearable_arch/WA_IMG_03.jpg",
+        "/imgs/wearable_arch/WA_IMG_04.jpg",
+        "/imgs/wearable_arch/WA_IMG_05.jpg",
+        "/imgs/wearable_arch/WA_IMG_06.jpg",
+        "/imgs/wearable_arch/WA_IMG_07.jpg",
+        "/imgs/wearable_arch/WA_IMG_08.jpg",
+        "/imgs/wearable_arch/WA_IMG_09.jpg",
+        "/imgs/wearable_arch/WA_IMG_10.jpg",
+        "/imgs/wearable_arch/WA_IMG_11.jpg",
+        "/imgs/wearable_arch/WA_IMG_12.jpg",
+        "/imgs/wearable_arch/WA_IMG_13.jpg",
+        "/imgs/wearable_arch/WA_IMG_14.jpg",
+        "/imgs/wearable_arch/WA_IMG_15.jpg",
+        "/imgs/wearable_arch/WA_IMG_16.jpg",
+        "/imgs/wearable_arch/WA_IMG_17.jpg",
+        "/imgs/wearable_arch/WA_IMG_18.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/524094496?h=765fe6d573&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern2"
+    },
+    {
+      "id": "animal_house",
+      "title": "Animal House",
+      "subtitle": "Robotic Fabrication",
+      "description": "Animal House speculated on artificial habitats for endangered species by researching Hawksbill Sea Turtles. Utilizing habitual patterns allowed the design of a module that would emulate a structure that is familiar to this specie. The shelter was imagined and scripted using a selected texture pattern as the source. A prototype was then fabricated using robots and “printed” with PLA material. Overall, the work flow of this course was moving seamlessly from 2D to 3D. The goals of this seminar were to develop a unique and highly controlled robotic fabrication process that would look at issues that had physical ramifications.",
+      "details": {
+        "school": "SCI-Arc Applied Studies",
+        "semester": "Spring 2019",
+        "instructor": "Herwig Baumgartner & Garrett Santo",
+        "team": "Nick Gochnour, Huan Liang, Potsung Huang, Dasha Ragimona, Kaan Karabagli",
+        "skills": "Adobe Suite: After Effects, InDesign, Illustrator, Grasshopper, Rhino 3D, Maya, Hydro-dipping, Model Making, PLA 3D Extrusion, Robotic Operation and Fabrication, Video/Photography"
+      },
+      "thumbnailImg": "/imgs/animal_house/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/ah_c_img.jpg",
+      "imgs": [
+        "/imgs/animal_house/AH_IMG_00.jpg",
+        "/imgs/animal_house/AH_IMG_01.jpg",
+        "/imgs/animal_house/AH_IMG_02.jpg",
+        "/imgs/animal_house/AH_IMG_03.jpg",
+        "/imgs/animal_house/AH_IMG_04.jpg",
+        "/imgs/animal_house/AH_IMG_05.jpg",
+        "/imgs/animal_house/AH_IMG_06.jpg",
+        "/imgs/animal_house/AH_IMG_07.jpg",
+        "/imgs/animal_house/AH_IMG_08.jpg",
+        "/imgs/animal_house/AH_IMG_09.jpg",
+        "/imgs/animal_house/AH_IMG_10.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/614704316?h=f0ecf3abd7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern"
+    },
+    {
+      "id": "radical_thing",
+      "title": "A Radical Thing",
+      "subtitle": "Endless snaps, in your pocket..",
+      "description": "Imagining a speculative product advert in the year 2030. In films like Blade Runner or Her, adverts fill the world and become an important aspect of exposition for the film. In the real world, many contemporary artists begin to re-imagine advertisements as an art practice in society today. The seminar was an incubator for utilizing 3D tools in speculative design thinking, industrial design modeling, product lighting, and custom post production methods. Ready-made objects are the point of departure by taking something familiar and giving a new performative property.",
+      "details": {
+        "school": "SCI-Arc Visual Studies",
+        "semester": "Spring 2021",
+        "instructor": "Kordae Jatafa Henry",
+        "team": null,
+        "skills": "Adobe Suite: After Effects & Premiere Audio/Video Editing, Cinema 4D + Octane Render, Moi, Maya + Redshift Render, Rhino 3D, Animation, Industrial Design Modeling, Product Lighting"
+      },
+      "thumbnailImg": "/imgs/radical_thing/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/art_c_img.jpg",
+      "imgs": [
+        "/imgs/radical_thing/ART_IMG_01.jpg",
+        "/imgs/radical_thing/ART_IMG_02.jpg",
+        "/imgs/radical_thing/ART_IMG_03.jpg",
+        "/imgs/radical_thing/ART_IMG_04.jpg",
+        "/imgs/radical_thing/ART_IMG_05.jpg",
+        "/imgs/radical_thing/ART_IMG_06.jpg",
+        "/imgs/radical_thing/ART_IMG_07.jpg",
+        "/imgs/radical_thing/ART_IMG_08.jpg",
+        "/imgs/radical_thing/ART_IMG_09.jpg",
+        "/imgs/radical_thing/ART_IMG_10.jpg",
+        "/imgs/radical_thing/ART_IMG_11.jpg",
+        "/imgs/radical_thing/ART_IMG_12.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/614068098?h=ff5bcf990d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "three-col"
+    },
+    {
+      "id": "throwback",
+      "title": "Throwback",
+      "subtitle": "Glass Block Facade",
+      "description": "Throwback takes an in-depth look at once popular materials (glass blocks) that may not have reached their full architectural potential. The objective was to explore fresh design takes on glass blocks, and an exploration at real scale of the fabrication methods necessary for inventive, experimental, and subversive applications. The chosen material had its heyday, finding its way into architectural projects along the way but may have never fully reached its design potential. The exhaustion of their popularity was generally limited based on either their pre-conceived use as a product or the specificity of their tectonic application.",
+      "details": {
+        "school": "SCI-Arc Applied Studies",
+        "semester": "Spring 2020",
+        "instructor": "Dwayne Oyler",
+        "team": "Henry Wang, Hiroto Tanabe",
+        "skills": "Adobe Suite: InDesign, Illustrator, Photoshop, Keyshot, Rhino 3D, Grasshopper, V-Ray"
+      },
+      "mainImg": "/imgs/throwback/main.jpg",
+      "thumbnailImg": "/imgs/throwback/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/tb_c_img.jpg",
+      "imgs": [
+        "/imgs/throwback/TB_IMG_01.jpg",
+        "/imgs/throwback/TB_IMG_02.jpg",
+        "/imgs/throwback/TB_IMG_03.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "one-col"
+    },
+    {
+      "id": "ciudad_casa_de_arte",
+      "title": "Ciudad Casa de Arte",
+      "subtitle": "Mexico City, MX",
+      "description": "The project developed a proposal for an art school as a vertically tilted urban block, located in the center of Mexico City, MX. Local conditions are considered such as urban planning, local ecology, contemporary politics, car, metro and pedestrian infrastructure that all shape the urban site. This has the potential to become the new urban prototype for a university. This building can be considered as a Godzilla tower above the urban fabric. The studio focused on (monumental animations) of the interior and exterior inspired by a la Piranesi to paint the narrative of the project. The project was to be presented on a website format. ",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Spring 2020",
+        "instructor": "Alexis Rochas",
+        "skills": "Adobe Suite: After Effects, Illustrator, Photoshop, Rhino 3D, Grasshopper, V-Ray, Enscape, Animation, 3D Printing, Web Design"
+      },
+      "thumbnailImg": "/imgs/CCA/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/cca_c_img.jpg",
+      "imgs": [
+        "/imgs/CCA/CCDA_IMG_01.jpg",
+        "/imgs/CCA/CCDA_IMG_02.jpg",
+        "/imgs/CCA/CCDA_IMG_03.jpg",
+        "/imgs/CCA/CCDA_IMG_04.jpg",
+        "/imgs/CCA/CCDA_IMG_05.jpg",
+        "/imgs/CCA/CCDA_IMG_06.jpg",
+        "/imgs/CCA/CCDA_IMG_07.jpg",
+        "/imgs/CCA/CCDA_IMG_08.jpg",
+        "/imgs/CCA/CCDA_IMG_09.jpg",
+        "/imgs/CCA/CCDA_IMG_10.jpg",
+        "/imgs/CCA/CCDA_IMG_11.jpg",
+        "/imgs/CCA/CCDA_IMG_12.jpg",
+        "/imgs/CCA/CCDA_IMG_13.jpg",
+        "/imgs/CCA/CCDA_IMG_14.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/415622859?h=b0750ac4b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern3"
+    },
+    {
+      "id": "design_development",
+      "title": "(DD)",
+      "subtitle": "Design Development",
+      "description": "Design Documentation - Analysis and Development: DD focused on construction systems, building technology, and the use of materials and system integration, basic construction methods, analysis of building codes, structural and mechanical systems and basic principles of sustainable design. A Factory for the Vitra Campus located in Basel Switzerland, was developed, focusing on the detailed design of a zone of the building in terms of the resolution of its structural system and building envelope using three-dimensional modeling and animation. Details, wall sections and overall building representations culminating in a comprehensive package of animations.",
+      "details": {
+        "school": "SCI-Arc Applied Studies",
+        "semester": "Spring 2020",
+        "instructor": "Herwig Baumgartner & Scott Uriu",
+        "team": "Cooper Liu, David Ma, Jixun Wen, Mateo Deza, Nick Zarazel, Ran An, Yoto Yokomizo",
+        "skills": "Adobe Suite: After Effects, Illustrator, Photoshop, Cinema 4D, Rhino 3D, V-Ray, Animation"
+      },
+      "thumbnailImg": "/imgs/dd/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/dd_c_img.jpg",
+      "imgs": [
+        "/imgs/dd/DD_IMG_01.jpg",
+        "/imgs/dd/DD_IMG_02.jpg",
+        "/imgs/dd/DD_IMG_03.jpg",
+        "/imgs/dd/DD_IMG_04.jpg",
+        "/imgs/dd/DD_IMG_05.jpg",
+        "/imgs/dd/DD_IMG_06.jpg",
+        "/imgs/dd/DD_IMG_07.jpg",
+        "/imgs/dd/DD_IMG_08.jpg",
+        "/imgs/dd/DD_IMG_09.jpg",
+        "/imgs/dd/DD_IMG_10.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/614863895?h=af7850cca4&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "two-col"
+    },
+    {
+      "id": "familiar_objects",
+      "title": "Familiar Objects",
+      "subtitle": "Magis x Vitra Catalogue",
+      "description": "The seminar consisted of reformatting and rendering familiar objects. The objects used for the simulation were taken from the Magis and Vitra catalogue. This custom platform is an environment to experiment with scripting and compositions. In the Rhino Grasshopper Kangaroo workflow, objects are manipulated into new relationships with each other and their digital \"world.\" By dropping one or many pieces of furniture into a fictional environment, we were asked to challenge the way objects are traditionally composed, viewed, and mapped with textures.",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Fall 2019",
+        "instructor": "Devyn Weiser & David Eskenazi",
+        "team": null,
+        "skills": "Adobe Suite: InDesign, Illustrator, Photoshop, Rhino 3D, Grasshopper, Kangaroo, 3D Printing, Model Making, Robotic Handling, Photography"
+      },
+      "mainImg": "/imgs/familiar_objects/main.jpg",
+      "thumbnailImg": "/imgs/familiar_objects/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/fo_c_img.jpg",
+      "imgs": [
+        "/imgs/familiar_objects/FO_IMG_01.jpg",
+        "/imgs/familiar_objects/FO_IMG_02.jpg",
+        "/imgs/familiar_objects/FO_IMG_03.jpg",
+        "/imgs/familiar_objects/FO_IMG_04.jpg",
+        "/imgs/familiar_objects/FO_IMG_05.jpg",
+        "/imgs/familiar_objects/FO_IMG_06.jpg",
+        "/imgs/familiar_objects/FO_IMG_07.jpg",
+        "/imgs/familiar_objects/FO_IMG_08.jpg",
+        "/imgs/familiar_objects/FO_IMG_09.jpg",
+        "/imgs/familiar_objects/FO_IMG_10.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "pattern"
+    },
+    {
+      "id": "glow",
+      "title": "Glow",
+      "subtitle": "UV Ink",
+      "description": "Architecture has turned up the visual volume and has been embracing social media feeds, augmented reality applications for personal devices and virtual reality glasses as a way to look at our reality. Architects have been pushing for a detour into the non-interesting and on the other side our technology has filled our eyes and minds with immediate feeds. Glow protests against the current forceful dichotomy between “non-interesting” and “interesting.” This causes us to engage in a conversation on the ambiguous power of contemporary materials seen through personal devices and their ability to produce new forms of imagination. The project explored the potential of optical effects in a digital and physical environment. ",
+      "details": {
+        "school": "SCI-Arc Visual Studies",
+        "semester": "Spring 2019",
+        "instructor": "Elena Manferdini & Andrea Cadiolo",
+        "team": null,
+        "skills": "Adobe Suite: After Effects, InDesign, Illustrator, Photoshop, Processing, Unity, AR, UV Ink Printing, Photography"
+      },
+      "mainImg": "/imgs/glow/main.jpg",
+      "thumbnailImg": "/imgs/glow/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/gl_c_img.jpg",
+      "imgs": [
+        "/imgs/glow/GL_IMG_01.jpg",
+        "/imgs/glow/GL_IMG_02.jpg",
+        "/imgs/glow/GL_IMG_03.jpg",
+        "/imgs/glow/GL_IMG_04.jpg",
+        "/imgs/glow/GL_IMG_05.jpg",
+        "/imgs/glow/GL_IMG_06.jpg",
+        "/imgs/glow/GL_IMG_07.jpg",
+        "/imgs/glow/GL_IMG_08.jpg",
+        "/imgs/glow/GL_IMG_09.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "three-col"
+    },
+    {
+      "id": "construction_documentation",
+      "title": "(CD)",
+      "subtitle": "Construction Documentation",
+      "description": "CD studied advanced methods of project delivery and construction documents by incorporating digital technologies and investigating new models for linking design and construction processes. Located in Los Angles, we analyzed and developed the architecture by creating a detailed 3D digital model and a set of 2D construction documents specifically tailored for the design challenges of a single unit residential project. We explored current industry standards in wood frame construction and through exploiting common residential forms and materials. Our study consisted of the manipulation and re-composition of these residential elements for a live/work mixed-use complex.",
+      "details": {
+        "school": "SCI-Arc Applied Studies",
+        "semester": "Fall 2020",
+        "instructor": "Pavel Getov & Kerenza Harris",
+        "team": "Sunny Cheung, Lauren Herman, Yihan Zheng",
+        "skills": "Autodesk Revit, Rhino 3D, Grasshopper, V-Ray"
+      },
+      "mainImg": "/imgs/CD/main.jpg",
+      "thumbnailImg": "/imgs/CD/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/cd_c_img.jpg",
+      "imgs": [
+        "/imgs/CD/CD_IMG_01.jpg",
+        "/imgs/CD/CD_IMG_02.jpg",
+        "/imgs/CD/CD_IMG_03.jpg",
+        "/imgs/CD/CD_IMG_04.jpg",
+        "/imgs/CD/CD_IMG_05.jpg",
+        "/imgs/CD/CD_IMG_06.jpg",
+        "/imgs/CD/CD_IMG_07.jpg",
+        "/imgs/CD/CD_IMG_08.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "two-col"
+    },
+    {
+      "id": "ground-for-adu",
+      "title": "Ground-for ADU",
+      "subtitle": "Empowered Living Design Competition",
+      "description": "The ADU creates an environment that is welcoming, quiet and private. It takes the fear out of housing others in your backyard. It creates an extension of the landscape that can create community. The problem of the ADU is not building them or affording them but convincing a community and individuals that it won’t decrease their quality of life. The living arrangement is pragmatic, simple and contains itself within a minimal surface area. These rooms use economical and quick stick frame construction. The entirety of the construction is found within a 32’x32’ volume. The roof becomes the spatial element that makes the project worthy of constructing in a backyard, and although a traditional asphalt shingle would reduce the cost immensely, the benefits provided by a green roof makes the project worth it. ",
+      "details": {
+        "school": "Competition",
+        "semester": "2021",
+        "instructor": null,
+        "team": "Nick Gochnour, Dixon Wong",
+        "skills": "Adobe Suite: (InDesign, Illustrator, Photoshop), Rhino 3D, Cinema 4D, Octane Render"
+      },
+      "mainImg": "/imgs/ground-for-adu/main.jpg",
+      "thumbnailImg": "/imgs/ground-for-adu/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/adu_c_img.jpg",
+      "imgs": [
+        "/imgs/ground-for-adu/adu_IMG_01.jpg",
+        "/imgs/ground-for-adu/adu_IMG_02.jpg",
+        "/imgs/ground-for-adu/adu_IMG_03.jpg",
+        "/imgs/ground-for-adu/adu_IMG_04.jpg",
+        "/imgs/ground-for-adu/adu_IMG_05.jpg",
+        "/imgs/ground-for-adu/adu_IMG_06.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "two-col"
+    },
+    {
+      "id": "grids_on_grids",
+      "title": "Grids on Grids",
+      "subtitle": "Vitra Campus Factory",
+      "description": "The studio designed a factory for the Vitra campus in Basel, Germany. The homogenous grid throughout the project is both virtual and physical, the organizer and the thing to be interrupted. The site has a virtual 3D grid that hovers both in digital space and in physical space on the site, but how we addressed the heterogeneous question – also part of the brief – is by interrupting this 3D spatial matrix with three nested, very largescale rooms in section. Typically, in an arrangement where you might see a heterogeneous space interrupting a homogeneous space, it is seen as a plan move.",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Fall 2019",
+        "instructor": "Devyn Weiser",
+        "team": "Mateo Deza & Lauren Herman",
+        "skills": "Adobe Suite: InDesign, Illustrator, Photoshop, Rhino 3D, Grasshopper, 3D Printing, Model Making, Photography"
+      },
+      "mainImg": "/imgs/grids_on_grids/main.jpg",
+      "thumbnailImg": "/imgs/grids_on_grids/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/gg_c_img.jpg",
+      "imgs": [
+        "/imgs/grids_on_grids/MP_IMG_01.jpg",
+        "/imgs/grids_on_grids/MP_IMG_02.jpg",
+        "/imgs/grids_on_grids/MP_IMG_03.jpg",
+        "/imgs/grids_on_grids/MP_IMG_04.jpg",
+        "/imgs/grids_on_grids/MP_IMG_05.jpg",
+        "/imgs/grids_on_grids/MP_IMG_06.jpg",
+        "/imgs/grids_on_grids/MP_IMG_07.jpg",
+        "/imgs/grids_on_grids/MP_IMG_08.jpg",
+        "/imgs/grids_on_grids/MP_IMG_09.jpg",
+        "/imgs/grids_on_grids/MP_IMG_10.jpg",
+        "/imgs/grids_on_grids/MP_IMG_11.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "pattern"
+    },
+    {
+      "id": "office_dfk",
+      "title": "Office-DFK",
+      "subtitle": "Restock London Housing Competition",
+      "description": "The condition of scarcity in the London housing market and the continuing need to \"restock\" equitable, affordable and community driven solutions seems to be mostly restricted by space. There really isn't anywhere to build in London. Possibly the most hidden in plain sight space that exists within the confines of the city are the alleyways, created by the terraces behind every townhome. The narrow, long block townhouse scheme is so common in London that its typology finds itself within practically every socioeconomic, ethnic and cultural strata. A proposal that could fit within this space could be an \"anywhere London\" proposal. Elevate it as to not completely eliminate the terraces. Taper the bottom and open up the central circulation to let in light and air, and you have a solution to restock London housing.",
+      "details": {
+        "school": "Office-DFK",
+        "semester": "2020",
+        "team": "Matt Daines, Brandon Broadstone, Blake Hitchcock",
+        "skills": "Adobe Suite: InDesign, Illustrator, Photoshop, Rhino 3D, Grasshopper, V-Ray, Lumion, 3D Printing, Model Making"
+      },
+      "mainImg": "/imgs/london_housing/main.jpg",
+      "thumbnailImg": "/imgs/london_housing/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/lh_c_img.jpg",
+      "imgs": [
+        "/imgs/london_housing/LH_IMG_01.jpg",
+        "/imgs/london_housing/LH_IMG_03.jpg",
+        "/imgs/london_housing/LH_IMG_04.jpg",
+        "/imgs/london_housing/LH_IMG_05.jpg",
+        "/imgs/london_housing/LH_IMG_06.jpg",
+        "/imgs/london_housing/LH_IMG_07.jpg",
+        "/imgs/london_housing/LH_IMG_08.jpg",
+        "/imgs/london_housing/LH_IMG_09.jpg",
+        "/imgs/london_housing/LH_IMG_10.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "one-col"
+    },
+    {
+      "id": "flooded",
+      "title": "Flooded",
+      "subtitle": "Bathhouse",
+      "description": "The bathhouse is one of the oldest architectural types, though not as relevant as they once were. Noting this, are bathhouses needed any longer? If so, would they take inspiration from their predecessors? This project explores the idea of mass and void in terms of the bathhouse, while keeping the urban context of downtown Los Angeles. Exploring the idea of layering through figural walls and volumes as well as thinking of the water plane as a surface. The model serves as an interior courtyard scape, open air above but moments where you are able to glimpse into the project from the facade.",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Spring 2019",
+        "instructor": "Margaret Griffin",
+        "team": null,
+        "skills": "Adobe Suite: InDesign, Illustrator, Photoshop, Rhino 3D, Grasshopper, V-Ray, Hydro-Dipping, 3D Printing, Model Making, Photography"
+      },
+      "mainImg": "/imgs/flooded/main.jpg",
+      "thumbnailImg": "/imgs/flooded/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/fd_c_img.jpg",
+      "imgs": [
+        "/imgs/flooded/FL_IMG_01.jpg",
+        "/imgs/flooded/FL_IMG_02.jpg",
+        "/imgs/flooded/FL_IMG_03.jpg",
+        "/imgs/flooded/FL_IMG_04.jpg",
+        "/imgs/flooded/FL_IMG_05.jpg",
+        "/imgs/flooded/FL_IMG_06.jpg",
+        "/imgs/flooded/FL_IMG_07.jpg",
+        "/imgs/flooded/FL_IMG_08.jpg"
+      ],
+      "videoLink": null,
+      "layoutStyle": "two-col"
+    }
+  ]
+}
