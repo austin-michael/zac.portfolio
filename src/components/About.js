@@ -44,9 +44,18 @@ const About = () => {
       <div className="work-container">
         <div className="job">
           <ul>
-            <li className="bold-text">Office-DFK + Stereo Furniture</li>
+            <li className="bold-text">SCI-Arc (Southern California Institute of Architecture)</li>
+            <li>Assistant Teacher</li>
+            <li className="italic-text">Jan. 2022 - Present </li>
+          </ul>
+        </div>
+        <div className="job">
+          <ul>
+            <li className="bold-text">Office-DFK </li>
+            <li>Freelance</li>
+            <li className="italic-text">Dec. 2021 - Present</li>
             <li>Architecture + Design, Intern</li>
-            <li className="italic-text">Jun. 2020 - Sept. 2021</li>
+            <li className="italic-text">Jun. 2020 - Oct. 2021</li>
           </ul>
         </div>
         <div className="job">
@@ -54,13 +63,6 @@ const About = () => {
             <li className="bold-text">Gensler</li>
             <li>Architectural Intern</li>
             <li className="italic-text">Jun. 2019 - Aug. 2019</li>
-          </ul>
-        </div>
-        <div className="job">
-          <ul>
-            <li className="bold-text">CMA</li>
-            <li>Architectural Intern</li>
-            <li className="italic-text">Jun. 2016 - Aug. 2016</li>
           </ul>
         </div>
       </div>

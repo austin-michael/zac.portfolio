@@ -9,7 +9,7 @@ const Header = () => {
 
   return (
     <nav className="header">
-      <NavLink to='/' className="logo">zac.ariaz</NavLink>
+      <NavLink to='/' className="logo">zac-ariah.</NavLink>
       <a className="hamburger-button" onClick={openHamburger}>
         <span className="bar"></span>
         <span className="bar"></span>

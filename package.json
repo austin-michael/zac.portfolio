@@ -1,7 +1,7 @@
 {
   "name": "zac.portfolio",
-  "homepage": "https://zac-williams.com",
   "version": "0.1.0",
+  "homepage": "https://zac-williams.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
