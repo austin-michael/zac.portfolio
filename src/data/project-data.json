@@ -2,13 +2,13 @@
   "projects": [
     {
       "id": "thats_a_wrap",
-      "title": "That’s a Wrap™",
+      "title": "That's a Wrap™",
       "subtitle": "Graduate Thesis \"One eloquent wrapped gesture\"",
       "description": "The thesis is comprised of two tracks, sampling and wrapping, neither a parallel track but an interconnected thread. Creating a working methodology of sampling suggests an open space where different architectural languages can cross-pollinate or contaminate, creating new territories and imagining new possibilities. This is the driver of the design but the aesthetic and outcome aren’t an evident sample – similar to contemporary hip hop – but an expression of new coherencies. The wrapper – an amorphic entity – is the force driving these coherencies through the surface in a unified and continuous envelope. The design seeks to maximize the expressive potential of various architectural configurations by condensing their figurative allusions into one eloquent wrapped gesture.",
       "details": {
         "school": "SCI-Arc Graduate Thesis",
         "semester": "2021",
-        "instructor": "Hernan Diaz-Alonso",
+        "advisor": "Hernan Diaz-Alonso",
         "team": null,
         "skills": "Adobe Suite: After Effects & Premiere Audio/Video Editing, InDesign, Cinema 4D + Octane Render, Insydium X-Particles, Rhino 3D, Animation, Simulation, Material Node Editing"
       },
@@ -43,38 +43,44 @@
       "layoutStyle": "pattern2"
     },
     {
-      "id": "paisajes_sintéticos",
-      "title": "Paisajes Sintéticos",
-      "subtitle": "Paraná Delta of Rosario, Argentina",
-      "description": "Located on the Paraná Delta in Rosario, Argentina lies an extensive journey in the new logics of contamination and construction of structural and cultural instability. Radicalizing the relationship between the urban and the rural divide by using the possibilities of artificial and natural interaction and blurring their relationship. The design consists of several systems that work parallel in varying scales, from the scale of the module to the size of an occupiable habitat. The hydroponic tubes sprawling across the untamable delta, bringing new life and protection to the landscape. Additionally, radicalizing the solution to plastic bottle waste by giving purpose to a module type composition.",
+      "id": "stereo",
+      "title": "Stereo",
+      "subtitle": "Furniture Brand",
+      "description": "I led the design of Stereo Furniture's debut in collaboration with Office-DFK and AKG. Stereo is a design-forward brand redefining mid-tier modern furniture by combining fun, functionality, and timeless appeal. Inspired by trends in sneaker culture, the brand introduces a “furniture as icon” concept, creating accessible yet desirable pieces that command attention. The collection includes both a “Basics” and a Signature line, making high design attainable for broader audiences. My role spanned brand design, furniture design, 3D modeling, rendering, and animation. The launch features 10 unique furniture pieces, each blending contemporary aesthetics with a bold, pop-influenced sensibility.",
       "details": {
-        "school": "SCI-Arc Design Studio",
-        "semester": "Spring 2021",
-        "instructor": "Hernan Diaz-Alonso",
-        "team": null,
-        "skills": "Adobe Suite: After Effects & Premier Audio/Video editing, Cinema 4D + Octane Render, Insydium X-Particles, Animation, Simulation, Material Node Editing"
+        "school": "Office-DFK",
+        "semester": "2022",
+        "team": "Office DFK, Afton Klein Group",
+        "skills": "Adobe Suite: After Effects, Premiere, InDesign, Illustrator, Cinema 4D, Octane Render, Rhino 3D, VRay"
       },
-      "thumbnailImg": "/imgs/paisajes_sinteticos_of_the_parana/thumbnail.jpg",
-      "carouselImg": "/imgs/carousel/ps_c_img.jpg",
+      "thumbnailImg": "/imgs/stereo/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/s_c_img.jpg",
       "imgs": [
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_01.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_02.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_03.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_04.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_05.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_06.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_07.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_08.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_09.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_10.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_11.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_12.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_13.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_14.jpg",
-        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_15.jpg"
+        "/imgs/stereo/S_IMG_01.jpg",
+        "/imgs/stereo/S_IMG_02.jpg",
+        "/imgs/stereo/S_IMG_03.jpg",
+        "/imgs/stereo/S_IMG_04.jpg",
+        "/imgs/stereo/S_IMG_05.jpg",
+        "/imgs/stereo/S_IMG_06.jpg",
+        "/imgs/stereo/S_IMG_07.jpg",
+        "/imgs/stereo/S_IMG_08.jpg",
+        "/imgs/stereo/S_IMG_09.jpg",
+        "/imgs/stereo/S_IMG_10.jpg",
+        "/imgs/stereo/S_IMG_11.jpg",
+        "/imgs/stereo/S_IMG_12.jpg",
+        "/imgs/stereo/S_IMG_13.jpg",
+        "/imgs/stereo/S_IMG_14.jpg",
+        "/imgs/stereo/S_IMG_15.jpg",
+        "/imgs/stereo/S_IMG_16.jpg",
+        "/imgs/stereo/S_IMG_17.jpg",
+        "/imgs/stereo/S_IMG_18.jpg",
+        "/imgs/stereo/S_IMG_19.jpg",
+        "/imgs/stereo/S_IMG_20.jpg",
+        "/imgs/stereo/S_IMG_21.jpg",
+        "/imgs/stereo/S_IMG_22.jpg"
       ],
-      "videoLink": "https://player.vimeo.com/video/614047670?h=4fde62879a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "layoutStyle": "pattern2"
+      "videoLink": "https://player.vimeo.com/video/1032692281?h=4fde62879a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "two-col"
     },
     {
       "id": "wearable_architecture",
@@ -143,6 +149,102 @@
       "layoutStyle": "pattern"
     },
     {
+      "id": "home_at",
+      "title": "Assistant Teacher (Faculty)",
+      "subtitle": "SCI-Arc Studio with Hernán Díaz-Alonso",
+      "description": "Co-taught an upper-division design studio alongside SCI-Arc Director/CEO Hernán Díaz-Alonso and special guest John Hoke, Chief Design Officer of Nike. Responsibilities included overall class coordination, 12 individual desk critiques, and software tutorials covering tools such as Adobe Suite, Cinema 4D, Octane Render, Redshift Render, and Substance 3D. The studio reimagined the concept of the single-family home, shifting from traditional architectural \"Types\" to exploring a paradigm of \"Species.\" The design challenge was direct: create a Home + House. Several exceptional student projects were showcased in SCI-Arc's Spring Show, highlighting the innovative and thought-provoking outcomes of the studio.",
+      "details": {
+        "school": "SCI-Arc Assistant Teacher",
+        "semester": "Spring 2022",
+        "students": "Kevin Foley, Santiago Sanchez, Tommy Ho, Lana Yuan, Paige Davidson, John Chan, Lilith Ren, David Garcia, Jure Zibret, Mehrdad Ranjbar, Yuxing Xu",
+        "skills": "Adobe Suite: After Effects & Premiere, Cinema 4D, Octane Render, Redshift Render, Rhino 3D, Substance 3D, ZBrush"
+      },
+      "thumbnailImg": "/imgs/home_at/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/h_c_img.jpg",
+      "imgs": [
+        "/imgs/home_at/H_IMG_01.jpg",
+        "/imgs/home_at/H_IMG_02.jpg",
+        "/imgs/home_at/H_IMG_03.jpg",
+        "/imgs/home_at/H_IMG_04.jpg",
+        "/imgs/home_at/H_IMG_05.jpg",
+        "/imgs/home_at/H_IMG_06.jpg",
+        "/imgs/home_at/H_IMG_07.jpg",
+        "/imgs/home_at/H_IMG_08.jpg",
+        "/imgs/home_at/H_IMG_09.jpg",
+        "/imgs/home_at/H_IMG_10.jpg",
+        "/imgs/home_at/H_IMG_11.jpg",
+        "/imgs/home_at/H_IMG_12.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/1032919230?h=4fde62879a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "two-col"
+    },
+    {
+      "id": "paisajes_sintéticos",
+      "title": "Paisajes Sintéticos",
+      "subtitle": "Paraná Delta of Rosario, Argentina",
+      "description": "Located on the Paraná Delta in Rosario, Argentina lies an extensive journey in the new logics of contamination and construction of structural and cultural instability. Radicalizing the relationship between the urban and the rural divide by using the possibilities of artificial and natural interaction and blurring their relationship. The design consists of several systems that work parallel in varying scales, from the scale of the module to the size of an occupiable habitat. The hydroponic tubes sprawling across the untamable delta, bringing new life and protection to the landscape. Additionally, radicalizing the solution to plastic bottle waste by giving purpose to a module type composition.",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Spring 2021",
+        "instructor": "Hernan Diaz-Alonso",
+        "team": null,
+        "skills": "Adobe Suite: After Effects & Premier Audio/Video editing, Cinema 4D + Octane Render, Insydium X-Particles, Animation, Simulation, Material Node Editing"
+      },
+      "thumbnailImg": "/imgs/paisajes_sinteticos_of_the_parana/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/ps_c_img.jpg",
+      "imgs": [
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_01.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_02.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_03.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_04.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_05.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_06.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_07.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_08.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_09.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_10.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_11.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_12.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_13.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_14.jpg",
+        "/imgs/paisajes_sinteticos_of_the_parana/PS_IMG_15.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/614047670?h=4fde62879a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern2"
+    },
+    {
+      "id": "ciudad_casa_de_arte",
+      "title": "Ciudad Casa de Arte",
+      "subtitle": "Mexico City, MX",
+      "description": "The project developed a proposal for an art school as a vertically tilted urban block, located in the center of Mexico City, MX. Local conditions are considered such as urban planning, local ecology, contemporary politics, car, metro and pedestrian infrastructure that all shape the urban site. This has the potential to become the new urban prototype for a university. This building can be considered as a Godzilla tower above the urban fabric. The studio focused on (monumental animations) of the interior and exterior inspired by a la Piranesi to paint the narrative of the project. The project was to be presented on a website format. ",
+      "details": {
+        "school": "SCI-Arc Design Studio",
+        "semester": "Spring 2020",
+        "instructor": "Alexis Rochas",
+        "skills": "Adobe Suite: After Effects, Illustrator, Photoshop, Rhino 3D, Grasshopper, V-Ray, Enscape, Animation, 3D Printing, Web Design"
+      },
+      "thumbnailImg": "/imgs/CCA/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/cca_c_img.jpg",
+      "imgs": [
+        "/imgs/CCA/CCDA_IMG_01.jpg",
+        "/imgs/CCA/CCDA_IMG_02.jpg",
+        "/imgs/CCA/CCDA_IMG_03.jpg",
+        "/imgs/CCA/CCDA_IMG_04.jpg",
+        "/imgs/CCA/CCDA_IMG_05.jpg",
+        "/imgs/CCA/CCDA_IMG_06.jpg",
+        "/imgs/CCA/CCDA_IMG_07.jpg",
+        "/imgs/CCA/CCDA_IMG_08.jpg",
+        "/imgs/CCA/CCDA_IMG_09.jpg",
+        "/imgs/CCA/CCDA_IMG_10.jpg",
+        "/imgs/CCA/CCDA_IMG_11.jpg",
+        "/imgs/CCA/CCDA_IMG_12.jpg",
+        "/imgs/CCA/CCDA_IMG_13.jpg",
+        "/imgs/CCA/CCDA_IMG_14.jpg"
+      ],
+      "videoLink": "https://player.vimeo.com/video/415622859?h=b0750ac4b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "layoutStyle": "pattern3"
+    },
+    {
       "id": "radical_thing",
       "title": "A Radical Thing",
       "subtitle": "Endless snaps, in your pocket..",
@@ -197,36 +299,33 @@
       "layoutStyle": "one-col"
     },
     {
-      "id": "ciudad_casa_de_arte",
-      "title": "Ciudad Casa de Arte",
-      "subtitle": "Mexico City, MX",
-      "description": "The project developed a proposal for an art school as a vertically tilted urban block, located in the center of Mexico City, MX. Local conditions are considered such as urban planning, local ecology, contemporary politics, car, metro and pedestrian infrastructure that all shape the urban site. This has the potential to become the new urban prototype for a university. This building can be considered as a Godzilla tower above the urban fabric. The studio focused on (monumental animations) of the interior and exterior inspired by a la Piranesi to paint the narrative of the project. The project was to be presented on a website format. ",
+      "id": "glow",
+      "title": "Glow",
+      "subtitle": "UV Ink",
+      "description": "Architecture has turned up the visual volume and has been embracing social media feeds, augmented reality applications for personal devices and virtual reality glasses as a way to look at our reality. Architects have been pushing for a detour into the non-interesting and on the other side our technology has filled our eyes and minds with immediate feeds. Glow protests against the current forceful dichotomy between “non-interesting” and “interesting.” This causes us to engage in a conversation on the ambiguous power of contemporary materials seen through personal devices and their ability to produce new forms of imagination. The project explored the potential of optical effects in a digital and physical environment. ",
       "details": {
-        "school": "SCI-Arc Design Studio",
-        "semester": "Spring 2020",
-        "instructor": "Alexis Rochas",
-        "skills": "Adobe Suite: After Effects, Illustrator, Photoshop, Rhino 3D, Grasshopper, V-Ray, Enscape, Animation, 3D Printing, Web Design"
+        "school": "SCI-Arc Visual Studies",
+        "semester": "Spring 2019",
+        "instructor": "Elena Manferdini & Andrea Cadiolo",
+        "team": null,
+        "skills": "Adobe Suite: After Effects, InDesign, Illustrator, Photoshop, Processing, Unity, AR, UV Ink Printing, Photography"
       },
-      "thumbnailImg": "/imgs/CCA/thumbnail.jpg",
-      "carouselImg": "/imgs/carousel/cca_c_img.jpg",
+      "mainImg": "/imgs/glow/main.jpg",
+      "thumbnailImg": "/imgs/glow/thumbnail.jpg",
+      "carouselImg": "/imgs/carousel/gl_c_img.jpg",
       "imgs": [
-        "/imgs/CCA/CCDA_IMG_01.jpg",
-        "/imgs/CCA/CCDA_IMG_02.jpg",
-        "/imgs/CCA/CCDA_IMG_03.jpg",
-        "/imgs/CCA/CCDA_IMG_04.jpg",
-        "/imgs/CCA/CCDA_IMG_05.jpg",
-        "/imgs/CCA/CCDA_IMG_06.jpg",
-        "/imgs/CCA/CCDA_IMG_07.jpg",
-        "/imgs/CCA/CCDA_IMG_08.jpg",
-        "/imgs/CCA/CCDA_IMG_09.jpg",
-        "/imgs/CCA/CCDA_IMG_10.jpg",
-        "/imgs/CCA/CCDA_IMG_11.jpg",
-        "/imgs/CCA/CCDA_IMG_12.jpg",
-        "/imgs/CCA/CCDA_IMG_13.jpg",
-        "/imgs/CCA/CCDA_IMG_14.jpg"
+        "/imgs/glow/GL_IMG_01.jpg",
+        "/imgs/glow/GL_IMG_02.jpg",
+        "/imgs/glow/GL_IMG_03.jpg",
+        "/imgs/glow/GL_IMG_04.jpg",
+        "/imgs/glow/GL_IMG_05.jpg",
+        "/imgs/glow/GL_IMG_06.jpg",
+        "/imgs/glow/GL_IMG_07.jpg",
+        "/imgs/glow/GL_IMG_08.jpg",
+        "/imgs/glow/GL_IMG_09.jpg"
       ],
-      "videoLink": "https://player.vimeo.com/video/415622859?h=b0750ac4b9&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
-      "layoutStyle": "pattern3"
+      "videoLink": null,
+      "layoutStyle": "three-col"
     },
     {
       "id": "design_development",
@@ -286,35 +385,6 @@
       ],
       "videoLink": null,
       "layoutStyle": "pattern"
-    },
-    {
-      "id": "glow",
-      "title": "Glow",
-      "subtitle": "UV Ink",
-      "description": "Architecture has turned up the visual volume and has been embracing social media feeds, augmented reality applications for personal devices and virtual reality glasses as a way to look at our reality. Architects have been pushing for a detour into the non-interesting and on the other side our technology has filled our eyes and minds with immediate feeds. Glow protests against the current forceful dichotomy between “non-interesting” and “interesting.” This causes us to engage in a conversation on the ambiguous power of contemporary materials seen through personal devices and their ability to produce new forms of imagination. The project explored the potential of optical effects in a digital and physical environment. ",
-      "details": {
-        "school": "SCI-Arc Visual Studies",
-        "semester": "Spring 2019",
-        "instructor": "Elena Manferdini & Andrea Cadiolo",
-        "team": null,
-        "skills": "Adobe Suite: After Effects, InDesign, Illustrator, Photoshop, Processing, Unity, AR, UV Ink Printing, Photography"
-      },
-      "mainImg": "/imgs/glow/main.jpg",
-      "thumbnailImg": "/imgs/glow/thumbnail.jpg",
-      "carouselImg": "/imgs/carousel/gl_c_img.jpg",
-      "imgs": [
-        "/imgs/glow/GL_IMG_01.jpg",
-        "/imgs/glow/GL_IMG_02.jpg",
-        "/imgs/glow/GL_IMG_03.jpg",
-        "/imgs/glow/GL_IMG_04.jpg",
-        "/imgs/glow/GL_IMG_05.jpg",
-        "/imgs/glow/GL_IMG_06.jpg",
-        "/imgs/glow/GL_IMG_07.jpg",
-        "/imgs/glow/GL_IMG_08.jpg",
-        "/imgs/glow/GL_IMG_09.jpg"
-      ],
-      "videoLink": null,
-      "layoutStyle": "three-col"
     },
     {
       "id": "construction_documentation",

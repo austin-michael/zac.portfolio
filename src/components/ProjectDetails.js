@@ -73,12 +73,26 @@ const ProjectDetails = () => {
 
                 {project.details.instructor != null ? (
                   <li style={{ paddingTop: "1em" }}>
-                    <span className="skills-key">
-                      {project.id == "thats_a_wrap"
-                        ? "Advisor: "
-                        : "Instructor: "}
-                    </span>
+                    <span className="skills-key">Instructor: </span>
                     {project.details.instructor}
+                  </li>
+                ) : (
+                  <></>
+                )}
+
+                {project.details.advisor != null ? (
+                  <li style={{ paddingTop: "1em" }}>
+                    <span className="skills-key">Advisor: </span>
+                    {project.details.advisor}
+                  </li>
+                ) : (
+                  <></>
+                )}
+
+                {project.details.students != null ? (
+                  <li style={{ paddingTop: "1em" }}>
+                    <span className="skills-key">Students: </span>
+                    {project.details.students}
                   </li>
                 ) : (
                   <></>
